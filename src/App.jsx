@@ -24,15 +24,15 @@ const posts = [
 
       { type: "link", content: "jane.design/doctorcare" },
     ],
-    publishedAt: new Date("2023-07-03 20:00:00"),
+    publishedAt: new Date("2024-11-03 20:00:00"),
   },
 
   {
     id: 2,
     author: {
-      avatarUrl: "https://github.com/maykebrito.png",
+      avatarUrl: "https://github.com/maykbrito.png",
       name: "Maik Brito",
-      role: "Educador @Rocketseat",
+      role: "Educator @Rocketseat",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
@@ -45,7 +45,7 @@ const posts = [
 
       { type: "link", content: "jane.design/doctorcare" },
     ],
-    publishedAt: new Date("2023-07-10 20:00:00"),
+    publishedAt: new Date("2024-10-10 20:00:00"),
   },
 ];
 
